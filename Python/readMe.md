@@ -1,4 +1,5 @@
-<strong> Output for Matrix Navigation </strong><br><br>
+<ul>
+<li><strong> Output for Matrix Navigation </strong><br><br></li>
 5 <br><br>
 2 4 8 9 6 <br>
 7 5 10 13 15 <br>
@@ -14,3 +15,4 @@ LEFT <br>
 DOWN <br>
 DOWN <br><br>
 3 //(ans)
+</ul>
